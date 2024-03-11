@@ -1,4 +1,7 @@
 ### Hallo, Saya orang Indonesia.
+Saya sedang belajar flutter clean architecture, dan saya sedang mengembangkan aplikasi flutter yaitu KCLibrary. Yang merupakan aplikasi tutorial atau cara bermain game kancolle browser HTML5.
+
+
 
 <!--
 **ShiiBuukii/ShiiBuukii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
